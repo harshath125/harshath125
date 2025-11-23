@@ -4,7 +4,7 @@
 
 <!-- Introduction -->
 
-<h1>✨ Hello, I'm harshath</h1>
+<h1>✨ Hello, I'm Harshath</h1>
 <p>
 A detail-oriented and results-driven Computer Science student specializing in Artificial Intelligence and Machine Learning.
 </p>
